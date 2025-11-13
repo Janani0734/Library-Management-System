@@ -54,10 +54,5 @@ This project showcases:
 
 ---
 
-## 🖥️ Screenshots (Add yours here!)
-
-> You can paste your screenshots like this after running the app:
-
-### 📌 CLI Screenshot
 
 
