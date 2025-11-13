@@ -32,4 +32,32 @@ This project showcases:
 
 ## 🗂️ Project Structure
 
+---
+
+## 🧠 Features
+
+### ✔ Backend (Java)
+- Add a book (JDBC INSERT)
+- List all books (JDBC SELECT)
+- JDBC error-handled demo mode
+- OOP classes: `Book`, `BookDAO`, `Main`
+
+### ✔ Database (SQL)
+- Create database + table script
+- Sample books inserted automatically
+- Simple, clean schema
+
+### ✔ Frontend (Static UI)
+- Clean HTML/CSS interface  
+- JavaScript mock data + API placeholder  
+- Can be linked to Spring Boot or Node.js REST API later  
+
+---
+
+## 🖥️ Screenshots (Add yours here!)
+
+> You can paste your screenshots like this after running the app:
+
+### 📌 CLI Screenshot
+
 
